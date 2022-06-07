@@ -1,0 +1,5 @@
+Let's Checkout... Prisma & Next.js
+
+https://www.youtube.com/watch?v=9qJKmesjTd8&ab_channel=WatchandLearn
+
+Using the Prisma ORM to connect to a MSSQL DB.
